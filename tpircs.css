@@ -1,0 +1,11 @@
+h3{
+    color: rgb(14, 255, 6);
+    font-size: 40px;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(5, 255, 209), 0 0 5px rgb(6, 88, 17);  
+}
+.text{
+    color: rgb(79, 212, 201);
+    font-size: larger;
+    text-decoration: underline;
+
+}
