@@ -13,7 +13,7 @@ document.getElementById("demo").innerHTML = part;
 let text = "Hello world, welcome to the universe.";
 document.getElementById("tf").innerHTML = text.startsWith("Hello");
 
-
+document.getElementById("demo").innerHTML = Boolean(10 > 9);
 
 
 
